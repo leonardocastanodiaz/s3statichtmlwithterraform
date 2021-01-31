@@ -11,7 +11,7 @@ Static HTML With S3 Buckets and CloudFront deployed with terraform modules
 2 Execute terraform init
           terraform apply --auto-approve
           
-3 Execute the command cp.sh domain
+3 Execute the command cp.sh domain to compy the index.html as example.
 
 4 Test the domain in your browser the sucessfull test shoul show 
 
